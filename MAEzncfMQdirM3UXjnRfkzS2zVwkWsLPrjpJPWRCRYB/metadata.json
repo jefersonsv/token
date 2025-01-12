@@ -1,8 +1,8 @@
 {
-    "name": "OPOS3",
-    "symbol": "OPOS3",
-    "description": "Only Possible On Solana2",
-    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png",
+    "name": "OPOS4",
+    "symbol": "OPOS4",
+    "description": "Only Possible On Solana4",
+    "image": "https://wilker.netlify.app/images/image.jpg",
     "attributes": [
       {
         "trait_type": "Item",
