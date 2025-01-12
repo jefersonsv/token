@@ -1,0 +1,13 @@
+{
+    "name": "OPOS3",
+    "symbol": "OPOS3",
+    "description": "Only Possible On Solana2",
+    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Compressed Coil"
+      }
+    ]
+  }
+  
